@@ -1,0 +1,16 @@
+"Mapa de la Isla Perdida"
+"El Titanic" esta enterrado en 2,3
+"El Titanic" te da 100 puntos
+"Barco Fantasma" esta enterrado en 4,2
+"Barco Fantasma" te da 50 puntos
+"Nave Dorada" esta enterrado en 3,4
+"Nave Dorada" te da 100 puntos
+en la casilla 1,1 hay una zona prohibida que reduce 50 puntos
+en la casilla 2,2 hay un tesoro que da 20 puntos
+en la casilla 3,2 hay un tesoro que da 50 puntos
+en la casilla 4,4 hay un tesoro que da 100 puntos
+en la casilla 1,2 hay una isla localizada
+en la casilla 3,1 hay una zona prohibida que reduce 25 puntos
+"ISLA 2" esta localizada a 2 casillas al sur de "El Titanic"
+
+fin
